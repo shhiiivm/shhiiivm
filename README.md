@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivammyadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivammyadav/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivammyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivammyadav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/yadavshivam2020s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yadavshivam2020s/" height="30" width="40" /></a>
 </p>
 
@@ -26,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shhiiivm&show_icons=true&locale=en&layout=compact" alt="shhiiivm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhiiivm&show_icons=true&locale=en" alt="shhiiivm" /></p>
-
